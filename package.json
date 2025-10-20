@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "2.11.1",
+  "version": "2.12.0",
   "description": "Library for the VI Software Launcher, a Minecraft launcher that supports multiple Minecraft versions and modpacks.",
   "main": "dist/index.js",
   "scripts": {
@@ -71,10 +71,10 @@
     "rimraf": "^6.0.1",
     "ts-node": "^10.9.2",
     "typescript": "^5.7.3",
-    "typescript-eslint": "^8.24.1",
-    "vis-launcher-distribution-manager": "^1.3.3"
+    "typescript-eslint": "^8.24.1"
   },
   "dependencies": {
+    "@visoftware/distribution-types": "^1.4.0",
     "fastq": "^1.19.0",
     "fs-extra": "^11.3.0",
     "got": "^11.8.6",
