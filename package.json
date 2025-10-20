@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "2.11.0",
+  "version": "2.11.1",
   "description": "Library for the VI Software Launcher, a Minecraft launcher that supports multiple Minecraft versions and modpacks.",
   "main": "dist/index.js",
   "scripts": {
@@ -49,7 +49,7 @@
     "node": ">=22.0.0"
   },
   "author": "VI Software",
-  "license": "MIT",
+  "license": "LGPL-3.0-only",
   "devDependencies": {
     "@stylistic/eslint-plugin-ts": "^3.1.0",
     "@types/chai": "^4.3.20",
